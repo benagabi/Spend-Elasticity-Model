@@ -1,2 +1,2 @@
 # Spend-Elasticity-Model
-Need to understand the how marketing spend by channel drives volume of opportunities and creates for the In home repair business broken out by marketing channel and by product.
+Need to understand how marketing spend by channel drives volume of opportunities and creates for e-commerce In-Home Repair business broken out by marketing channels and by products.
